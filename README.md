@@ -3,14 +3,15 @@
 Technical Skills
 ================
 
-* Python, Javascript, SQL, Shell scripting
+* Python, Javascript, SQL, Bash
 * Django, Rest framework, Tornado, Flask, Celery, RabbitMQ, Nginx
-* AngularJS, Websocket, Bootstrap, jQuery, CanJS, GruntJS, HighCharts, GulpJS
+* AngularJS, Websocket, Bootstrap, jQuery, CanJS, GruntJS, GulpJS, Bower
 * PostgreSQL, MySQL, SQLite, MongoDB, Memcached, Redis
 * Pandas, NumPy, SciPy
-* Amazon Web Server, Ansible, Vagrant, Chef, Git, Google App Engine, Linux
+* EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53
+* Ansible, Vagrant, Chef, Git, Google App Engine, Linux
 * Jenkins, Supervisor, Monit, Sentry
-* Unittest, Lettuce, Selenium, BDD/TDD style
+* Unittest, Lettuce, Selenium, BDD/TDD
 
 Languages
 =========
