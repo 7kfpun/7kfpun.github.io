@@ -19,3 +19,5 @@ Languages
 * English (Professional working proficiency)
 * Chinese (Native or bilingual proficiency)
 * Thai (Native or bilingual proficiency)
+
+> Contact me by [Linkedin](https://www.linkedin.com/pub/kf-pun/61/475/871)
