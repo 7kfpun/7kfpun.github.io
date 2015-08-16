@@ -1,7 +1,7 @@
 *If A is a success in tech, then A equals x plus y plus z. Learning is x; y is sharing; and z is keeping your hands coding*
 
-Technical Skills
-================
+Skills
+======
 
 * Python, Javascript, SQL, Bash
 * Django, Rest framework, Tornado, Flask, Celery, RabbitMQ, Nginx
