@@ -20,4 +20,4 @@ Languages
 * Chinese (Native or bilingual proficiency)
 * Thai (Native or bilingual proficiency)
 
-> Contact me by [Linkedin](https://www.linkedin.com/pub/kf-pun/61/475/871)
+> Contact me by [Linkedin](https://www.linkedin.com/pub/kf-pun/61/475/871) or ping me via email on [Github](https://github.com/7kfpun).
