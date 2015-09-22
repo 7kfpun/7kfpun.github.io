@@ -3,15 +3,18 @@
 Skills
 ======
 
-* Python, Javascript, SQL, Bash
-* Django, Rest framework, Tornado, Flask, Celery, RabbitMQ, Nginx
-* AngularJS, Websocket, Bootstrap, jQuery, CanJS, GruntJS, GulpJS, Bower
-* PostgreSQL, MySQL, SQLite, MongoDB, Memcached, Redis
-* Pandas, NumPy, SciPy
-* EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53
-* Ansible, Vagrant, Chef, Git, Google App Engine, Linux
-* Jenkins, Supervisor, Monit, Sentry
-* Unittest, Lettuce, Selenium, BDD/TDD
+* Python, Javascript, SQL, Bash `Language`
+* Django, Rest framework, Tornado, Flask, Celery `Backend`
+* Pandas, NumPy, SciPy `Scientific`
+* Angular, Websocket, Bootstrap, jQuery, CanJS, Grunt, Gulp, Bower, CoffeeScript, Less `Frontend`
+* PostgreSQL, MySQL, SQLite, MongoDB `Database`
+* Memcached, Redis, RabbitMQ `Caching and messaging`
+* EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53 `Amazon Web Server`
+* Git, Google App Engine, Linux, OSX `Environment`
+* Ansible, Vagrant, Chef, Jenkins, Supervisor, Monit, Sentry, Nginx `DevOps`
+* Unittest, Lettuce, Selenium, BDD/TDD `Testing`
+* Vim, Atom `IDE`
+* React Native `Mobile App`
 
 Languages
 =========
