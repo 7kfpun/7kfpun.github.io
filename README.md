@@ -3,18 +3,18 @@
 Skills
 ======
 
-* Python, Javascript, SQL, Bash `Language`
-* Django, Rest framework, Tornado, Flask, Celery `Backend`
-* Pandas, NumPy, SciPy `Scientific`
-* Angular, Websocket, Bootstrap, jQuery, CanJS, Grunt, Gulp, Bower, CoffeeScript, Less `Frontend`
-* PostgreSQL, MySQL, SQLite, MongoDB `Database`
-* Memcached, Redis, RabbitMQ `Caching and messaging`
-* EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53 `Amazon Web Server`
-* Git, Google App Engine, Linux, OSX `Environment`
-* Ansible, Vagrant, Chef, Jenkins, Supervisor, Monit, Sentry, Nginx `DevOps`
-* Unittest, Lettuce, Selenium, BDD/TDD `Testing`
-* Vim, Atom `IDE`
-* React Native `Mobile App`
+* Python, Javascript, SQL, Bash *`Language`*
+* Django, Rest framework, Tornado, Flask, Celery *`Backend`*
+* Pandas, NumPy, SciPy *`Scientific`*
+* Angular, Websocket, Bootstrap, jQuery, CanJS, Grunt, Gulp, Bower, CoffeeScript, Less *`Frontend`*
+* PostgreSQL, MySQL, SQLite, MongoDB *`Database`*
+* Memcached, Redis, RabbitMQ *`Caching and messaging`*
+* AWS, Google App Engine *`Cloud infrastructure`*
+* EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53 *`Amazon Web Server`*
+* Git, Ansible, Vagrant, Chef, Jenkins, Supervisor, Monit, Sentry, Nginx *`DevOps`*
+* Unittest, Lettuce, Selenium, BDD/TDD *`Testing`*
+* Vim, Atom *`IDE`*
+* React Native `*Mobile App`*
 
 Languages
 =========
