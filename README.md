@@ -14,7 +14,7 @@ Skills
 * Git, Ansible, Vagrant, Chef, Jenkins, Supervisor, Monit, Sentry, Nginx *`DevOps`*
 * Unittest, Lettuce, Selenium, BDD/TDD *`Testing`*
 * Vim, Atom *`IDE`*
-* React Native *`Mobile App`*
+* React Native, Reflux *`Mobile App`*
 
 Languages
 =========
