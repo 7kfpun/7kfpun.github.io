@@ -1,4 +1,4 @@
-*If A is a success in tech, then A equals x plus y plus z. Learn is x; y is share; and z is keeping your hands coding*
+*If A is a success in tech, then A equals x plus y plus z. Learn is x; y is share; and z is keeping your hands dirty*
 
 ### Skills
 
