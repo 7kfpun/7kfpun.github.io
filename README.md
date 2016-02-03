@@ -5,7 +5,7 @@
 * Python, Javascript, SQL, Bash *`Language`*
 * Django, Rest framework, Tornado, Flask, Celery *`Backend`*
 * Pandas, NumPy, SciPy *`Scientific`*
-* Angular, Websocket, Bootstrap, jQuery, CanJS, Grunt, Gulp, Bower, CoffeeScript, Less, HTML *`Frontend`*
+* React, Angular, Electron, Bootstrap, jQuery, CanJS, Grunt, Gulp, Bower, CoffeeScript, Less *`Frontend`*
 * PostgreSQL, MySQL, SQLite, MongoDB *`Database`*
 * Memcached, Redis, RabbitMQ *`Caching and messaging`*
 * AWS, Google App Engine *`Cloud infrastructure`*
