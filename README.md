@@ -13,8 +13,9 @@
 * EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53 *`Amazon Web Server`*
 * Ansible, Docker, Vagrant, Chef, Jenkins, Git *`DevOps`*
 * Unittest, Lettuce, Selenium, BDD/TDD *`Testing`*
-* React Native, Redux, Alt, Reflux, APNS, C2DM *`Mobile App`*
+* React Native (both iOS and Android), Redux, Alt, Reflux, APNS, C2DM *`Mobile App`*
 * Firebase, Algolia, Parse, MailGun, OneSignal *`SaaS`*
+* PayPal, Braintree, Stripe *`Payment`*
 * Vim, Atom *`IDE`*
 
 ### To-study list
