@@ -4,16 +4,18 @@
 
 * Python, Javascript, SQL, Bash *`Language`*
 * Django, Rest framework, Tornado, Flask, Celery *`Backend`*
-* Pandas, NumPy, SciPy *`Scientific`*
-* React, Angular, Electron, Bootstrap, jQuery, CanJS, Grunt, Gulp, Bower, CoffeeScript, Less *`Frontend`*
+* Pandas, NumPy, SciPy, NLTK *`Scientific`*
+* React, Angular, Electron, Bootstrap, jQuery, Grunt, Gulp, CoffeeScript, Less *`Frontend`*
 * PostgreSQL, MySQL, SQLite, MongoDB *`Database`*
-* Memcached, Redis, RabbitMQ *`Caching and messaging`*
-* AWS, Google App Engine *`Cloud infrastructure`*
+* Memcached, Redis *`Caching`*
+* RabbitMQ, WebSocket *`Messaging`*
+* Amazon Web Services, Google App Engine, Heroku *`Cloud infrastructure`*
 * EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53 *`Amazon Web Server`*
-* Git, Ansible, Vagrant, Chef, Jenkins, Supervisor, Monit, Sentry, Nginx *`DevOps`*
+* Ansible, Docker, Vagrant, Chef, Jenkins, Git *`DevOps`*
 * Unittest, Lettuce, Selenium, BDD/TDD *`Testing`*
+* React Native, Redux, Alt, Reflux, APNS, C2DM *`Mobile App`*
+* Firebase, Algolia, Parse, MailGun, OneSignal *`SaaS`*
 * Vim, Atom *`IDE`*
-* React Native, Redux, Reflux *`Mobile App`*
 
 ### To-study list
 
@@ -26,4 +28,4 @@
 * Chinese (Native proficiency)
 * Thai (Native proficiency)
 
-> Contact me by [Linkedin](https://hk.linkedin.com/in/7kfpun) or ping me via email on [Github](https://github.com/7kfpun).
+> Contact me by [Linkedin](https://linkedin.com/in/7kfpun) or ping me via email on [Github](https://github.com/7kfpun).
