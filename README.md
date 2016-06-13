@@ -32,8 +32,6 @@
 
 ### Languages
 
-Languages
-
 * English, Chinese and Thai
 
 
