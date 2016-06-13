@@ -23,10 +23,19 @@
 - [ ] [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 - [ ] [golang/go](https://github.com/golang/go)
 
+### My playgrounds
+
+[![App Store Button](app-store.png "App Store Button")](https://itunes.apple.com/us/developer/kf-pun/id1116896894)
+[![Play Store Button](google-play.png "Google Play Button")](https://play.google.com/store/apps/developer?id=Kf)
+
+<a href="https://www.npmjs.com/~kf"><img src="https://cldup.com/Rg6WLgqccB.svg" alt="Npmjs Button" width="140"></a>
+<a href="https://atom.io/users/7kfpun"><img src="https://assets-cdn.github.com/images/modules/site/atom_logo.png" alt="Atom Packages Button" width="140"></a>
+
 ### Languages
 
-* English (Professional working proficiency)
-* Chinese (Native proficiency)
-* Thai (Native proficiency)
+Languages
+
+* English, Chinese and Thai
+
 
 > Contact me by [Linkedin](https://linkedin.com/in/7kfpun) or ping me via email on [Github](https://github.com/7kfpun).
