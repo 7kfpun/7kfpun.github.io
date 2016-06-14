@@ -25,10 +25,15 @@
 
 ### My playgrounds
 
-[![App Store Button](app-store.png "App Store Button")](https://itunes.apple.com/us/developer/kf-pun/id1116896894)
-[![Play Store Button](google-play.png "Google Play Button")](https://play.google.com/store/apps/developer?id=Kf)
-<a href="https://www.npmjs.com/~kf"><img src="https://cldup.com/Rg6WLgqccB.svg" alt="Npmjs Button" width="100"></a>
-<a href="https://atom.io/users/7kfpun"><img src="https://assets-cdn.github.com/images/modules/site/atom_logo.png" alt="Atom Packages Button" width="100"></a>
+[![App Store](app-store.png "App Store")](https://itunes.apple.com/us/developer/kf-pun/id1116896894)
+[![Play Store](google-play.png "Google Play")](https://play.google.com/store/apps/developer?id=Kf)
+<a href="https://pypi.python.org/pypi/django-simple-cache-admin/0.1.2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python Package" width="100"></a>
+<a href="https://www.npmjs.com/~kf"><img src="https://cldup.com/Rg6WLgqccB.svg" alt="Npmjs package" width="100"></a>
+<a href="https://atom.io/users/7kfpun"><img src="https://assets-cdn.github.com/images/modules/site/atom_logo.png" alt="Atom Package" width="100"></a>
+<a href="http://www.vim.org/account/profile.php?user_id=69682"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Vim.svg" alt="Vim Script" width="100"></a>
+
+
+
 
 ### Languages
 
