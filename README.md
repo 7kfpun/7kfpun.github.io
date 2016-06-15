@@ -18,11 +18,6 @@
 * PayPal, Braintree, Stripe *`Payment`*
 * Vim, Atom *`IDE`*
 
-### To-study list
-
-- [ ] [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-- [ ] [golang/go](https://github.com/golang/go)
-
 ### My playgrounds
 
 [![App Store](app-store.png "App Store")](https://itunes.apple.com/us/developer/kf-pun/id1116896894)
