@@ -13,7 +13,7 @@
 * EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53 *`Amazon Web Server`*
 * Ansible, Docker, Vagrant, Chef, Jenkins, Git *`DevOps`*
 * Unittest, Lettuce, Selenium, BDD/TDD *`Testing`*
-* React Native (both iOS and Android), Redux, Alt, Reflux, APNS, C2DM *`Mobile App`*
+* React Native (both iOS and Android), MobX, Redux, Alt, Reflux, APNS, C2DM *`Mobile App`*
 * Firebase, Algolia, Parse, MailGun, OneSignal *`SaaS`*
 * PayPal, Braintree, Stripe *`Payment`*
 * Vim, Atom *`IDE`*
@@ -27,12 +27,8 @@
 <a href="https://atom.io/users/7kfpun"><img src="https://assets-cdn.github.com/images/modules/site/atom_logo.png" alt="Atom Package" width="100"></a>
 <a href="http://www.vim.org/account/profile.php?user_id=69682"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Vim.svg" alt="Vim Script" width="100"></a>
 
-
-
-
 ### Languages
 
 * English, Chinese and Thai
-
 
 > Contact me by [Linkedin](https://linkedin.com/in/7kfpun) or ping me via email on [Github](https://github.com/7kfpun).
