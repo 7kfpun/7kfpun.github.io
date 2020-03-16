@@ -19,13 +19,14 @@
 * Memcached, Redis *`Caching`*
 * RabbitMQ, WebSocket *`Messaging`*
 * Amazon Web Services, Google App Engine, Heroku *`Cloud infrastructure`*
-* EC2, RDS, DynamoDB, ElastiCache, S3, SNS, Route 53 *`Amazon Web Server`*
+* EC2, RDS, DynamoDB, ElastiCache, Lambda, API Gateway, S3, SNS, Route 53 *`Amazon Web Server`*
 * Ansible, Docker, Vagrant, Chef, Jenkins, Git *`DevOps`*
 * Unittest, Lettuce, Selenium, BDD/TDD *`Testing`*
-* React Native (both iOS and Android), MobX, Redux, Alt, Reflux, APNS, C2DM *`Mobile App`*
-* Firebase, Algolia, Parse, MailGun, OneSignal *`SaaS`*
+* Swift, React Native, Redux, APNS, C2DM *`Mobile App`*
+* Firebase, Algolia, MailGun, OneSignal *`SaaS`*
 * PayPal, Braintree, Stripe *`Payment`*
 * Vim, Atom *`IDE`*
+* AdMob, Facebook Audience Network *`Advertising`*
 
 ### Languages
 
